@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpAnalysisConfiguration" call_tree_analysis_depth="3" />
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$" />
+    </include_path>
+  </component>
+  <component name="PhpInterpreters">
+    <interpreters>
+      <interpreter id="599d21cd-d444-44bb-8bba-883850fb0daf" name="admin@104.18.30.27:8080:8080 agent" home="sshConfig://DATA" debugger_id="php.debugger.XDebug">
+        <remote_data INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" SSH_CONFIG_ID="6e73ca56-ebee-415e-8a0d-eb13b9fec22e" SSH_CONFIG_NAME="admin@104.18.30.27:8080:8080 agent" SSH_CREDENTIALS_ID="sshConfig://admin@104.18.30.27:8080:8080 agent" />
+      </interpreter>
+    </interpreters>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="8.1" />
+  <component name="PhpRuntimeConfiguration" document_root_path="." />
+</project>
